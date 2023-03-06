@@ -1,8 +1,12 @@
 # Hello ! I'm Falcao Eduardo ✌️
+![Snake animation](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake.svg)
 
-## My social Medias :
+## About Me
 
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edusampaiofalcao/)
+<span style="color : #edd58f ; font-size: 14px;">
+My name is Eduardo Falcao, a Junior Java Developer studying  Management IT degree. Experienced in software application development and testing using Java and Spring frameworks  to building  APIs and integrating with databases like MySQL and PostgreSQL. A quick learner with excellent problem-solving skills and eager to become a Full-stack Software Engineer. Expanding my knowledge of front-end technologies such as HTML, CSS, and JavaScript, and looking forward to further expanding my knowledge in modern JavaScript frameworks like React and Angular. Passionate about coding challenges. Dedicated to delivering high-quality software solutions and committed to achieving my goal.
+</span>
+
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=onedark)
 
@@ -20,4 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake.svg)
+## My social Medias :
+
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edusampaiofalcao/)
