@@ -2,13 +2,13 @@
 
 ![Snake animation](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake.svg)
 
-## About Me
+## 👩‍💻 About Me
 
 #### My name is Eduardo Falcao, a Junior Java Developer studying  Management IT degree. Experienced in software application development and testing using Java and Spring frameworks  to building  APIs and integrating with databases like MySQL and PostgreSQL. A quick learner with excellent problem-solving skills and eager to become a Full-stack Software Engineer. Expanding my knowledge of front-end technologies such as HTML, CSS, and JavaScript, and looking forward to further expanding my knowledge in modern JavaScript frameworks like React and Angular. Passionate about coding challenges. Dedicated to delivering high-quality software solutions and committed to achieving my goal.
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=onedark)
 
-## Technologies I use the most in my days
+## 🛠 My Skills
 
 <div style = "display: inline_block ; justify-content : space-around "><br/>
     <img align="center" alt="html5" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
