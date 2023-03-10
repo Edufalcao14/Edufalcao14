@@ -6,7 +6,7 @@
 
 - 👋 Hey, my name is Eduardo!
 - 📍 Based in Brussels , Belgium.
-- 👨‍🎓 Studying IT Management at the Haute Ecole Leonard de vinci.
+- 👨‍🎓 Studying IT Management at the Haute École Léonard de Vinci.
 
 
 
