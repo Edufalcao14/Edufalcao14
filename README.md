@@ -18,7 +18,7 @@
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=onedark)
 
-#### 🛠 My Skills
+## 🛠 My Skills
 
 <div style = "display: inline_block ; justify-content : space-around "><br/>
     <img align="center" alt="html5" src ="https://icons.iconarchive.com/icons/iconstoc/vintage-social/48/html-5-icon.png"/>
