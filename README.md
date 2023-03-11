@@ -7,7 +7,7 @@
 - 👋 Hey, my name is Eduardo!
 - 📍 Based in Brussels , Belgium.
 - 🎓 Studying IT Management at the Haute École Léonard de Vinci.
-## 🛠 My Skills
+## 📱 My Skills
 
 <div style = "display: inline_block ; justify-content : space-around "><br/>
     <img align="center" alt="html5" src ="https://icons.iconarchive.com/icons/iconstoc/vintage-social/48/html-5-icon.png"/>
