@@ -6,7 +6,6 @@
 
 - 👋 Hey, my name is Eduardo!
 - 📍 Based in Brussels , Belgium.
-- 🖥️ Back-End Developper
 - 🎓 Studying IT Management at the Haute École Léonard de Vinci.
 ## 🛠 My Skills
 
