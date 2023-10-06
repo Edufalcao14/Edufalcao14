@@ -2,7 +2,8 @@
 
 ---
 
-![Snake animation](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake.svg)
+
+![snake animation](https://github.com/edufalcao14>/<edufalcao14>/blob/output/github-contribution-grid-snake2.svg)
 
 - 👋 Hey, my name is Eduardo!
 - 📍 Based in Brussels , Belgium.
