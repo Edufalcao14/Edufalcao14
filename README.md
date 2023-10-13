@@ -3,7 +3,8 @@
 ---
 
 
-![snake gif](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake.gif)
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Edufalcao14/Edufalcao14/output/github-contribution-grid-snake.gif" width="1000" />
+
 
 - 👋 Hey, my name is Eduardo!
 - 📍 Based in Brussels , Belgium.
