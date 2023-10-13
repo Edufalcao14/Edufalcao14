@@ -2,8 +2,7 @@
 
 ---
 
-
-<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Edufalcao14/Edufalcao14/output/github-contribution-grid-snake.gif"  />
+<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Edufalcao14/Edufalcao14/output/github-contribution-grid-snake.gif"/>
 
 
 - 👋 Hey, my name is Eduardo!
