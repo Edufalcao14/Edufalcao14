@@ -3,7 +3,7 @@
 ---
 
 
-![snake gif](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake.gif)
+https://github.com/edufalcao14/edufalcao14/blob/output/github-contribution-grid-snake.gif
 
 - 👋 Hey, my name is Eduardo!
 - 📍 Based in Brussels , Belgium.
