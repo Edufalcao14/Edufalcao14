@@ -2,7 +2,7 @@
 
 ---
 
-<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Edufalcao14/Edufalcao14/output/github-contribution-grid-snake-dark.gif"/>
+![snake animation](https://github.com/Edufalcao14>/Edufalcao14/blob/output/github-contribution-grid-snake2.svg)
 
 
 - 👋 Hey, my name is Eduardo!
