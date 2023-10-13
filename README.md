@@ -1,7 +1,7 @@
                                                   ✨ You're welcome to my Github. ✨
 
 ---
-![github-contribution-grid-snake](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 - 👋 Hey, my name is Eduardo!
