@@ -23,7 +23,7 @@
 
 <br>
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=onedark)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=dark)
 <br><br>
 ## My social Medias :
 
@@ -33,8 +33,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/Edufalcao14/Hotel-API" title="Hotel API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Hotel-API&theme=onedark&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Edufalcao14/Cart-api" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Cart-api&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Edufalcao14/Hotel-API" title="Hotel API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Hotel-API&theme=dark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Edufalcao14/Cart-api" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Cart-api&theme=dark&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
