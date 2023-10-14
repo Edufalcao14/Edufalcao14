@@ -24,10 +24,21 @@
 <br>
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=onedark)
-
-
-
+<br><br>
 ## My social Medias :
 
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edusampaiofalcao/)
 [![Linked In](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvlHtkcnfxKRDDrzHRgJQKWqRVwfgXZRMSQprcjfnrKbCMvPcgkgGTvmtcHCGPqWxzRTdB)
+<br><br>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/Edufalcao14/Hotel-API" title="Hotel API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Hotel-API&theme=onedark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Edufalcao14/Cart-api" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Cart-api&theme=onedark&border_color=61dafb&border_radius=10"></a>
+</div>
+
+
+
+
+
+
