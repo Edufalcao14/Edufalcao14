@@ -23,7 +23,6 @@
   <p align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com?user=Edufalcao14&theme=whatsapp-dark" alt="GitHub Streak" />
     </p>
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=dark)
 
 </p>
 
