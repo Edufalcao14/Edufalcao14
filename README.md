@@ -29,7 +29,8 @@
 <br><br>
 ## My social Medias :
 
-<a href="https://www.w3schools.com/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/edusampaiofalcao/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/eduu_falcao/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 <br><br>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
