@@ -29,8 +29,7 @@
 <br><br>
 ## My social Medias :
 
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edusampaiofalcao/)
-[![Linked In](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvlHtkcnfxKRDDrzHRgJQKWqRVwfgXZRMSQprcjfnrKbCMvPcgkgGTvmtcHCGPqWxzRTdB)
+<a href="https://www.w3schools.com/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <br><br>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
