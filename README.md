@@ -1,4 +1,4 @@
-                                                  ✨ You're welcome to my Github. ✨
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4DF745&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;+%E2%9C%A8+You're+welcome+to+my+Github.+%E2%9C%A8;I'm+Full-Stack+Developer;I'm+Back-End+Developer" alt="Typing SVG" /></a>
 
 ---
 ![github-contribution-grid-snake](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake-dark.svg)
@@ -7,19 +7,12 @@
 - 👋 Hey, my name is Eduardo!
 - 📍 Based in Brussels , Belgium.
 - 🎓 Studying IT Management at the Haute École Léonard de Vinci.
-## 📱 Technologies
-
-<div style = "display: inline_block ; justify-content : space-around "><br/>
-    <img align="center" alt="html5" src ="https://icons.iconarchive.com/icons/iconstoc/vintage-social/48/html-5-icon.png"/>
-    <img align="center" alt="CSS" src ="https://icons.iconarchive.com/icons/martz90/hex/48/css-3-icon.png" />
-    <img align="center" alt="Java" src ="https://icons.iconarchive.com/icons/dakirby309/simply-styled/48/Java-icon.png" />
-    <img align="center" alt="Spring" src ="https://miro.medium.com/max/550/0*5FEJ7emIEAxZRCQF" width="40" height="40" />
-    <img align="center" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    <img align="center" alt="Node.js" src ="https://miro.medium.com/max/374/1*Yhe1R94CIotr2se7Wf6TQQ.png"" height="40" />
-    <img align="center" alt="MySQL" src ="https://cdn-icons-png.flaticon.com/128/5815/5815478.png"  height="40" /> 
+## 📱 Tools : 
+<br>
+<div>
+  <img  align="center" src="https://skillicons.dev/icons?i=java,spring,javascript,express,nodejs,html,css,react,postgres,git,linux" />
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edufalcao14&layout=compact)](https://github.com/Edufalcao14/github-readme-stats)
 
