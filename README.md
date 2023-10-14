@@ -9,14 +9,23 @@
 - 🎓 Studying IT Management at the Haute École Léonard de Vinci.
 ##   <h2 align="center"> 🔥 Languages-Frameworks-Tools 🔥 :</h2>
 <br>
-<div>
+<p align="center">
   <img  align="center" src="https://skillicons.dev/icons?i=java,spring,javascript,express,nodejs,html,css,react,postgres,git,linux" />
-</div>
+</p>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edufalcao14&layout=compact)](https://github.com/Edufalcao14/github-readme-stats)
 
+<p align="center">
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edufalcao14&title_color=5dbb63&text_color=ffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
+    <br>
+  <p align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=Edufalcao14&theme=whatsapp-dark" alt="GitHub Streak" />
+    </p>
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=dark)
+
+</p>
 
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
  <br>
@@ -26,12 +35,13 @@
 
 <br>
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=dark)
+
 <br><br>
 ## My social Medias :
-
+<p align="center">
 <a href="https://www.linkedin.com/in/edusampaiofalcao/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/eduu_falcao/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
 <br><br>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
