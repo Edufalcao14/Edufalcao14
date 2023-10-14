@@ -2,19 +2,20 @@
 
 ---
 ![github-contribution-grid-snake](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake-dark.svg)
-  <br>
+
+
+- 👋 Hey, my name is Eduardo!
+- 📍 Based in Brussels , Belgium.
+- 🎓 Studying IT Management at the Haute École Léonard de Vinci.
+
+ <br>
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
  <br>
 <p>
   My name is Eduardo Falcao, a Junior Java Developer studying  Management IT degree. Experienced in software application development and testing using Java and Spring frameworks  to building  APIs and integrating with databases like MySQL and PostgreSQL. A quick learner with excellent problem-solving skills and eager to become a Full-stack Software Engineer. Expanding my knowledge of front-end technologies such as HTML, CSS, and JavaScript, and looking forward to further expanding my knowledge in modern JavaScript frameworks like React and Angular. Passionate about coding challenges. Dedicated to delivering high-quality software solutions and committed to achieving my goal.
 <p>
-
-<br>
-
-- 👋 Hey, my name is Eduardo!
-- 📍 Based in Brussels , Belgium.
-- 🎓 Studying IT Management at the Haute École Léonard de Vinci.
-##   <h2 align="center"> 🔥 Languages-Frameworks-Tools 🔥 :</h2>
+  <br><br>
+ <h2 align="center"> 🔥 Languages-Frameworks-Tools 🔥 :</h2>
 <br>
 <p align="center">
   <img  align="center" src="https://skillicons.dev/icons?i=java,spring,javascript,express,nodejs,html,css,react,postgres,git,linux" />
@@ -37,7 +38,7 @@
 
 
 <br><br>
-## My social Medias :
+<h2 align="center">👩‍💻 My social Medias : 👩‍💻</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/edusampaiofalcao/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/eduu_falcao/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
