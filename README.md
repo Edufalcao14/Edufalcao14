@@ -37,8 +37,7 @@
   <a align="left" href="https://github.com/Edufalcao14/Cart-api" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Cart-api&theme=dark&border_color=61dafb&border_radius=10"></a>
 </div>
 
-
-
+<br><br>
 
 
 
