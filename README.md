@@ -1,10 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4DF745&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;+%E2%9C%A8+You're+welcome+to+my+Github.+%E2%9C%A8;I'm+Full-Stack+Developer;I'm+Back-End+Developer" alt="Typing SVG" /></a>
 
----
-![github-contribution-grid-snake](https://github.com/Edufalcao14/Edufalcao14/blob/output/github-contribution-grid-snake-dark.svg)
 
-
-- 👋 Hey, my name is Eduardo!
+- 👋 My name is Eduardo!
 - 📍 Based in Brussels , Belgium.
 - 🎓 Studying IT Management at the Haute École Léonard de Vinci.
 
@@ -14,6 +11,19 @@
 <p>
   My name is Eduardo Falcao, a Junior Java Developer studying  Management IT degree. Experienced in software application development and testing using Java and Spring frameworks  to building  APIs and integrating with databases like MySQL and PostgreSQL. A quick learner with excellent problem-solving skills and eager to become a Full-stack Software Engineer. Expanding my knowledge of front-end technologies such as HTML, CSS, and JavaScript, and looking forward to further expanding my knowledge in modern JavaScript frameworks like React and Angular. Passionate about coding challenges. Dedicated to delivering high-quality software solutions and committed to achieving my goal.
 <p>
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edufalcao14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Edufalcao14&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edufalcao14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
   <br><br>
  <h2 align="center"> 🔥 Languages-Frameworks-Tools 🔥 :</h2>
 <br>
@@ -21,21 +31,6 @@
   <img  align="center" src="https://skillicons.dev/icons?i=java,spring,javascript,express,nodejs,html,css,react,postgres,git,linux" />
 </p>
 <br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<p align="center">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edufalcao14&theme=dark&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Edufalcao14&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
-    <br>
-  <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Edufalcao14&theme=whatsapp-dark" alt="GitHub Streak" />
-    </p>
-
-</p>
-
-
-
 
 <br><br>
 <h2 align="center">👩‍💻 My social Medias : 👩‍💻</h2>
@@ -44,13 +39,6 @@
 <a href="https://www.instagram.com/eduu_falcao/" target="_blank"> <img  align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 <br><br>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Edufalcao14/Hotel-API" title="Hotel API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Hotel-API&theme=dark&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Edufalcao14/Cart-api" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Edufalcao14&repo=Cart-api&theme=dark&border_color=61dafb&border_radius=10"></a>
-</div>
-
 <br><br>
 
 
