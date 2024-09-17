@@ -4,6 +4,8 @@
 - 👋 My name is Eduardo!
 - 📍 Based in Brussels , Belgium.
 - 🎓 Studying IT Management at the Haute École Léonard de Vinci.
+- 🖥️ Check my Portfolio : [Portfolio Link](https://www.edufalcao.site/)
+- ✉️ Contact me by email : [eduhenriquefalc@gmail.com](mailto:eduhenriquefalc@gmail.com)
 
  <br>
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
