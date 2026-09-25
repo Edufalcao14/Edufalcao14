@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=4DF745&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;+%E2%9C%A8+You're+welcome+to+my+Github.+%E2%9C%A8;I'm+a+Full-Stack+Engineer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" /></a>
 
 - 👋 My name is Eduardo!
-- 📍 Based in Brussels, Belgium.
+- 📍 Based in Sao Paulo, Brazil.
 - 💼 Full Stack Engineer at Nightborn.
 - 🎓 BSc in Computer Science — Haute École Léonard de Vinci.
 - 🖥️ Check my Portfolio: [edufalcao.site](https://www.edufalcao.site/)
